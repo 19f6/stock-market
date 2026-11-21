@@ -1,0 +1,12 @@
+{
+  "name": "stock-market-mock-server",
+  "version": "1.0.0",
+  "description": "Mock real-time stock-market data server (REST + WebSocket) for the Flutter stock-market app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
